@@ -1,8 +1,10 @@
 # reading-notes
+# Code 201 Reading Notes
+### this web site is about summary all what I learn on 201 class 
 
 Name                                  |  Links                                              
 --------------------------------------|----------------------------------------------------
-Read-01                               |  [class01]()                                                  
+Read-01                               |  [class01](https://nermin-nasasra.github.io/reading-notes/class01) 
 --------------------------------------|----------------------------------------------------
 Read-02                               |                                                    
 --------------------------------------|----------------------------------------------------
