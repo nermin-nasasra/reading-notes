@@ -8,8 +8,9 @@
 
 # Boxes
 ### At the beginning of this section on CSS, you saw how CSS treats each HTML element as if it lives in its own box.
-### box diminsion (width and hight):By default a box is sized just big enough to hold its contents. To set your ### own dimensions for a box you can use the height and width properties.
-### overflow(hidden and scroll):hidden This property simply hides any extra content that does not fit in the ### box,scroll This property adds a scrollbar to the box so that users can scroll to see the missing content.
+### box diminsion (width and hight):By default a box is sized just big enough to hold its contents. 
+### To set your own dimensions for a box you can use the height and width properties.
+### overflow(hidden and scroll):hidden This property simply hides any extra content that does not fit in the box,scroll This property adds a scrollbar to the box so that users can scroll to see the missing content.
 ### The border-width:  a property used it to control the width of a border. 
 ### You can control the style of a border using the border-style property.
 ### You can specify the color of a border using either RGB values:
