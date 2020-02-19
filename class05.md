@@ -1,6 +1,6 @@
 # Images
 ### A picture can say a thousand words, and great images help make the difference between an average-looking site and a really engaging one.
-### /*adding images:<img>  for ex. <img src="images/quokka.jpg" alt="A family of   quokka" width="600" height="450" /> */
+### adding images:<img>  for ex./* <img src="images/quokka.jpg" alt="A family of   quokka" width="600" height="450" /> */
 * height: This specifies the height of the image in pixels.
 * width: This specifies the width of the image in pixels.
 ### three rules for creating images:
