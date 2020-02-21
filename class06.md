@@ -17,3 +17,4 @@
 * querySelectorAll ('css selector') 
 ### An element node can contain multiple text nodes and child elements that are siblings of each other. 
 ### In older browsers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery). 
+
