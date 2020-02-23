@@ -2,13 +2,13 @@
 
 ### A table represents information in a grid format. Examples of tables include financial reports, TV schedules, and sports results.
 ### basic table structure:
-* <table>
-* <tr>  
-* <td>
+### <table>
+### <tr>  
+### <td>
 ### long tables: There are three elements that help distinguish between the main content of the table and the first and last rows (which can contain different content).
-* <thead> :The headings of the table should sit inside the <thead> element.
-* <tbody> :The body should sit inside the <tbody> element. 
-* <tfoot> :The footer belongs inside the <tfoot> element.
+### <thead> :The headings of the table should sit inside the <thead> element.
+###<tbody> :The body should sit inside the <tbody> element. 
+### <tfoot> :The footer belongs inside the <tfoot> element.
 ### You can make cells of a table span more than one row or column using the rowspan and colspan attributes. 
 
 # ** JS /Chapter 3: “Functions, Methods, and Objects **
