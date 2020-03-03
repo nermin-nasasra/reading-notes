@@ -32,4 +32,4 @@ Read-13                               |  [class13](https://nermin-nasasra.github
 --------------------------------------|----------------------------------------------------
 Read-14                               |  [class14](https://nermin-nasasra.github.io/reading-notes/class14)
 --------------------------------------|----------------------------------------------------
-Read-15                               |  [class15]()
+Read-15                               |  [class15](https://nermin-nasasra.github.io/reading-notes/class15)
